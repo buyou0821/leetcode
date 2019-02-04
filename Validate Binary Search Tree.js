@@ -1,3 +1,4 @@
+// lintcode 95.
 /**
  * @param root: The root of binary tree.
  * @return: True if the binary tree is BST, or false
